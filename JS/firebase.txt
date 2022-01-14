@@ -1,0 +1,10 @@
+// firebase
+// const firebaseConfig = {
+//   apiKey: "AIzaSyDirUwzJrUoKMz9YTlgoNGsU_HlNX2TBow",
+//   authDomain: "yosua-gunawan-front-end.firebaseapp.com",
+//   projectId: "yosua-gunawan-front-end",
+//   storageBucket: "yosua-gunawan-front-end.appspot.com",
+//   messagingSenderId: "346300196264",
+//   appId: "1:346300196264:web:d01dc93dbfd8f992c8699d",
+//   measurementId: "G-MQ3Y00NR5K"
+// };
