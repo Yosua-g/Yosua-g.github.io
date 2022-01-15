@@ -163,7 +163,12 @@ nav {
 }
 
 .yosua .container .row sup {
+    display: flex;
+    justify-content: center;
+    /* Akhirnya bisa ditengah */
+    align-items: center;
     position: absolute;
+    /* Terima kasih */
     left: 82%;
     top: 10%;
     height: 3em;
